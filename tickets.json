@@ -1,0 +1,19 @@
+{
+   "ticketList":[
+      {
+         "type":"Balcony Level",
+         "price":1170,
+         "inventory":12
+      },
+      {
+         "type":"Lower Level",
+         "price":10434,
+         "inventory":20
+      },
+      {
+         "type":"Courtside",
+         "price":2777,
+         "inventory":15
+      }
+   ]
+}
